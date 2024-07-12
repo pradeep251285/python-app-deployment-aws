@@ -261,3 +261,5 @@ sudo python3 EmpApp.py
 
 - once  all the progress completed copy the loadbalancer DNS and paste in the browser we will get output of the image given below
 
+
+![WhatsApp Image 2024-07-12 at 19 07 41](https://github.com/user-attachments/assets/8d7b7e63-c334-48cf-a7d8-2007b4e1bd4c)
